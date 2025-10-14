@@ -16,7 +16,7 @@
          "shortDescription":"Movie - The Social Network",
          "title":"The Social Network",
          "content":{
-            "duration":713,
+            "duration":7200,
             "videos":[
                {
                   "videoType":"MP4",
@@ -42,7 +42,7 @@
          "shortDescription":"Demonstrates the Roku automated channel testing software.",
          "title":"Automated channel testing",
          "content":{
-            "duration":713,
+            "duration":7200,
             "videos":[
                {
                   "videoType":"MP4",
