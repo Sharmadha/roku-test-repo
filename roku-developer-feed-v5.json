@@ -3,6 +3,33 @@
    "language":"en-US",
    "lastUpdated":"2020-03-15T02:01:00+02:00",
    "movies":[
+     {
+  "longDescription": "Aboard the ill-fated RMS Titanic, Rose, a young woman from a wealthy family, falls in love with Jack, a penniless artist. Their romance becomes a struggle for survival when the ship strikes an iceberg.",
+  "thumbnail": "https://raw.githubusercontent.com/Sharmadha/roku-test-repo/main/resources/Titanic.jpeg",
+  "releaseDate": "1997 ‧ Romance/Drama",
+  "genres": [
+    "romance",
+    "drama"
+  ],
+  "tags": [
+    "demo"
+  ],
+  "id": "shortform-titanic",
+  "shortDescription": "Romance • Drama",
+  "title": "Titanic",
+  "content": {
+    "duration": 55,
+    "videos": [
+      {
+        "videoType": "MP4",
+        "url": "https://github.com/Sharmadha/roku-hack-test/releases/download/2026/titanic.mp4",
+        "quality": "HD"
+      }
+    ],
+    "language": "en-us",
+    "dateAdded": "2026-10-29T00:00:00Z"
+  }
+},
 
      {
   "longDescription": "A dangerous gun trick takes center stage in this tense scene from Christopher Nolan's The Prestige, starring Hugh Jackman and Christian Bale.",
