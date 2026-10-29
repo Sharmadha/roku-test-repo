@@ -80,6 +80,64 @@
             "language":"en-us",
             "dateAdded":"2020-01-29T02:39:11Z"
          }
+      },
+     {
+  "longDescription": "A dangerous gun trick takes center stage in this tense scene from Christopher Nolan's The Prestige, starring Hugh Jackman and Christian Bale.",
+  "thumbnail": "https://raw.githubusercontent.com/Sharmadha/roku-test-repo/main/resources/DeathScene.png",
+  "releaseDate": "2006 ‧ Thriller/Mystery",
+  "genres": [
+    "thriller",
+    "mystery"
+  ],
+  "tags": [
+    "demo",
+    "movie-scene",
+    "4K",
+    "HDR"
+  ],
+  "id": "shortform-the_prestige-gun_trick",
+  "shortDescription": "The Gun Trick • The Prestige • 4K HDR",
+  "title": "The Gun Trick scene | 4K HDR | The Prestige",
+  "content": {
+    "duration": 160,
+    "videos": [
+      {
+        "videoType": "MP4",
+        "url":"https://github.com/Sharmadha/roku-hack-test/releases/download/2026/GunTrick.mp4",
+        "quality": "UHD"
       }
+    ],
+    "language": "en-us",
+    "dateAdded": "2020-01-29T02:39:11Z"
+  }
+},
+      {
+  "longDescription": "During a water tank escape act, Julia becomes trapped underwater as Angier, Borden, and Cutter desperately try to save her. A tragic scene from Christopher Nolan's The Prestige.",
+  "thumbnail": "https://raw.githubusercontent.com/Sharmadha/roku-test-repo/main/resources/JuliaDeath.png",
+  "releaseDate": "2006 ‧ Thriller/Mystery",
+  "genres": [
+    "thriller",
+    "mystery"
+  ],
+  "tags": [
+    "demo",
+    "movie-scene"
+  ],
+  "id": "shortform-the_prestige-julia_death",
+  "shortDescription": "Julia's Death • The Prestige",
+  "title": "Julia's Death Scene | The Prestige",
+  "content": {
+    "duration": 240,
+    "videos": [
+      {
+        "videoType": "MP4",
+        "url": "https://github.com/Sharmadha/roku-hack-test/releases/download/2026/JuliaDeath.mp4",
+        "quality": "HD"
+      }
+    ],
+    "language": "en-us",
+    "dateAdded": "2020-01-29T02:39:11Z"
+  }
+}
    ]
 }
